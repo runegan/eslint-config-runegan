@@ -10,6 +10,6 @@
   },
   "files": [
     ".eslintrc.js",
-    "no-es6"
+    "no-es6.js"
   ]
 }
