@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-runegan",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "repository": "https://github.com/runegan/eslint-config-runegan",
+  "author": "Rune Gangsø <runegan@gmail.com> (runegan.no)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "files": [
+    ".eslintrc.js",
+    "no-es6"
+  ]
+}
