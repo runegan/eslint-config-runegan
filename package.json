@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-runegan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": ".eslintrc.js",
   "repository": "https://github.com/runegan/eslint-config-runegan",
   "author": "Rune Gangsø <runegan@gmail.com> (runegan.no)",
