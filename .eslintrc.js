@@ -32,7 +32,7 @@ module.exports = {
 		'no-useless-escape': 'error',
 		'no-useless-return': 'error',
 		'no-with': 'error',
-		'prefer-promise-reject-errors': [ 'error', { allowEmptyReject: true }]
+		'prefer-promise-reject-errors': [ 'error', { allowEmptyReject: true }],
 		'wrap-iife': [ 'error', 'outside', { functionPrototypeMethods: true }],
 		yoda: 'error',
 		'no-undef-init': 'error',
