@@ -201,6 +201,14 @@ module.exports = {
 				allowBlockStart: true
 			}
 		],
+		indent: [ 'error', 'tab', {
+			outerIIFEBody: 0,
+			MemberExpression: 1,
+			FunctionDeclaration: {
+				body: 1,
+				parameters: 2
+			}
+		}],
 		'no-spaced-func': 'error',
 		'no-multiple-empty-lines': 2
 	}
